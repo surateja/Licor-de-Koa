@@ -1,2 +1,1 @@
-# Licor-de-Koa
-pagina web de licor artesanal de Koa
+# Licor_de_KOA
